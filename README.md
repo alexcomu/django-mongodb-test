@@ -11,7 +11,7 @@ First of all, create a new **virtualenv** called envDJ inside the root folder
     
 Now, install the requirements:
 
-    pip install -r requirements
+    pip install -r requirements.txt
     
 Be sure to have MongoDB installed and up&running!
 
